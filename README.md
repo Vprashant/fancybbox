@@ -1,4 +1,6 @@
 # Fancybbox
+[![PyPi version](https://img.shields.io/pypi/v/fancybbox)](https://pypi.org/project/fancybbox/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A package that allows to build Lib is a package that enables users to create visually appealing bounding boxes for object detection in image processing deep learning projects.  
 With a current version of 0.0.10, the package is constantly being updated and improved. The package offers a variety of features, including the ability to customize the appearance of bounding boxes with different colors, line widths, and styles. 
@@ -6,6 +8,15 @@ Additionally, it provides users with the flexibility to adjust the size and shap
 
 
 Developed by Prashant Verma (c) 2023
+
+This project still very much experimental and may change significantly. 
+
+## Install
+Install with all dependencies:
+
+```bash
+pip install fancybbox
+```
 
 ## Examples of How To Use (Alpha Version)
 
